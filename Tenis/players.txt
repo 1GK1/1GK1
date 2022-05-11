@@ -1,0 +1,1 @@
+{"Grzego K\u0119dzia": [2, 3], "B": [4, 2], "C": [2, 0], "D": [1, 1], "Andrzej Kulewik": [14, 5]}
